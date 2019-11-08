@@ -39,11 +39,22 @@ Det giver mest mening at følge typiske standarder for de sprog, vi bruger.
 ### C/C++
 - Vi benytter AU's kodestandard.
 
+## Dokumentation
+
+- Vi dokumenterer vores kode, mens vi skriver.
+- Der er for
+- Vi brug de værktøjer, der er naturlige til det sprog, vi skriver i.
+	* Python: Vi bruger docstrings
+
 ## Testing
 
-##
+
+## Versionsstyring
+
+
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTYwNTI3NTgsLTIwNTE2NDE4ODUsNT
-g2NjI4MTk1XX0=
+eyJoaXN0b3J5IjpbMTIyMjkzNDI3OSwtMjA1MTY0MTg4NSw1OD
+Y2MjgxOTVdfQ==
 -->
