@@ -80,10 +80,15 @@ Det giver mest mening at følge typiske standarder for de sprog, vi bruger.
 
 ### Branches
 - Vi benytter branches til fastfrysning af releases, featureudvikling og fix af issues. Vi har beskrevet workflowet [her](https://github.com/AUTeam2/standards/blob/master/branch-workflow.md).
+- Vi navngiver branches som fx ”release/2.0”, ”feature/opgaveId” og ”issue/bugId”.
+- Release-nummerering følger timebox-nummerering. Kode released i timebox 2 fastfryses i en branch med navn ”release/2.0”.
+- Det er scrum-masters ansvar, at en releaseversion fastfryses.
 
-
+### Commit-beskeder
+- Vi skriver gode og commit-beskeder, der hjælper hinanden med 
+- 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDYzNDg4ODYsLTIwNTE2NDE4ODUsNT
-g2NjI4MTk1XX0=
+eyJoaXN0b3J5IjpbLTcyNzc5NTEyNSwtMjA1MTY0MTg4NSw1OD
+Y2MjgxOTVdfQ==
 -->
