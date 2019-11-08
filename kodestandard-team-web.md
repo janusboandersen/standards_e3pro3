@@ -20,7 +20,7 @@ Det giver mest mening at følge typiske standarder for de sprog, vi bruger.
 		> Use 4 spaces per indentation level.
 		> Spaces are the preferred indentation method.
 		> Python 3 disallows mixing the use of tabs and spaces for indentation.
-	* Linjelænger, max 79 tegn
+	* Linjelænger, prøv at holde dem på maks. 79 tegn
 		> Limit all lines to a maximum of 79 characters.
 
 ### HTML5
@@ -30,6 +30,6 @@ Det giver mest mening at følge typiske standarder for de sprog, vi bruger.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTU1MjAyNDIsLTIwNTE2NDE4ODUsNT
-g2NjI4MTk1XX0=
+eyJoaXN0b3J5IjpbNDc0OTEzMDQ0LC0yMDUxNjQxODg1LDU4Nj
+YyODE5NV19
 -->
