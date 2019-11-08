@@ -27,6 +27,7 @@ Det giver mest mening at følge typiske standarder for de sprog, vi bruger.
 	* Selvom det er sjovt, så går *my_:monkey:_function(:banana:, :beer:)* nok ikke...
 		> Code in the core Python distribution should always use UTF-8.
 		> All identifiers in the Python standard library MUST use ASCII-only identifiers, and SHOULD use English words wherever feasible.
+	* Slå op i standarden for at se, hvordan man navngiver en funktion, en klasse, en variabel, os
 
 ### HTML5
 
@@ -35,6 +36,6 @@ Det giver mest mening at følge typiske standarder for de sprog, vi bruger.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjI4OTgzNSwtMjA1MTY0MTg4NSw1OD
-Y2MjgxOTVdfQ==
+eyJoaXN0b3J5IjpbLTE2MTc5MzA2NjcsLTIwNTE2NDE4ODUsNT
+g2NjI4MTk1XX0=
 -->
