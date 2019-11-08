@@ -13,10 +13,12 @@ Hej! Det er sjovere og nemmere at arbejde sammen, når vi er enige om et par sta
 ## Kodestandarder
 Det giver mest mening at følge typiske standarder for de sprog, vi bruger.
 ### Python
-- Standarden er i 
+- De fleste skriver Python efter [PEP8](https://www.python.org/dev/peps/pep-0008/). Så det prøver vi også.
+- Det er en lang kodestandard, som vi kan slå op i efter behov. Væsentligst til at komme i gang:
+- 
 ###
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4OTE0MDEwNywtMjA1MTY0MTg4NSw1OD
+eyJoaXN0b3J5IjpbMTY2MjIzNDM5NiwtMjA1MTY0MTg4NSw1OD
 Y2MjgxOTVdfQ==
 -->
