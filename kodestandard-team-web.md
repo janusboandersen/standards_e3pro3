@@ -64,15 +64,22 @@ Det giver mest mening at følge typiske standarder for de sprog, vi bruger.
 		- Vi skriver unit tests med `unittest` [som er den foretrukne måde](https://docs.djangoproject.com/en/2.2/topics/testing/).
 		- Vi følger [Django's opskrift](https://docs.djangoproject.com/en/2.2/topics/testing/overview/) når vi skriver og kører tests.
 	* **JavaScript**:
-		- Vi må evaluere behovet. Selenium?
- 
+		- Vi må evaluere behovet. `Selenium`?
+	* **C/C++**: 
+		- Vi må evaluere behovet... `Catch2`?
 
 ## Versionsstyring
+Vi benytter Git og Github til versionsstyring og kodedeling.
+Vi 
 
+<![if !supportLists]>· <![endif]>Vi benytter Github til bug-tracking (issues).
 
+<![if !supportLists]>· <![endif]>Vi benytter branches til fastfrysning af releases, featureudvikling og fix af issues.
+
+Master branch (mainline) skal altid kunne deployes til server.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDQ5MjAxOTgsLTIwNTE2NDE4ODUsNT
+eyJoaXN0b3J5IjpbLTEyODk0NDA3NTYsLTIwNTE2NDE4ODUsNT
 g2NjI4MTk1XX0=
 -->
