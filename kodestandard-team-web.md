@@ -5,11 +5,12 @@ Hej! Det er sjovere og nemmere at arbejde sammen, når vi er enige om et par sta
 
 ## Versioner
 
-- Python >= 3.6 [](https://docs.python.org/3/](https://docs.python.org/3/)
+- Python >= 3.6 [[Nyeste er 3.8]](https://docs.python.org/3/)
+- Django >= 2.2 [[Nyeste er 2.2]
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NzM4NjcwNiwtMjA1MTY0MTg4NSw1OD
-Y2MjgxOTVdfQ==
+eyJoaXN0b3J5IjpbMzM5MzQzMzY5LC0yMDUxNjQxODg1LDU4Nj
+YyODE5NV19
 -->
