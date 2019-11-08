@@ -45,11 +45,17 @@ Det giver mest mening at følge typiske standarder for de sprog, vi bruger.
 - Der er forskel på at kommentere og dokumentere. Det er godt at kommentere. Det er krævet at dokumentere.
 - Vi brug de værktøjer, der er naturlige til det sprog, vi skriver i.
 	* **Python**:
-		- Vi bruger docstrings. Se fx [Documenting Python code](https://realpython.com/documenting-python-code/). 
+		- Vi bruger docstrings til at dokumentere alle moduler, klasser og funktioner. Se fx [Documenting Python code](https://realpython.com/documenting-python-code/). 
 		- Vi bruger Sphinx til at samle dokumentation senere.
 		- Hvis vi har lyst, kan vi derfor skrive formattere dokumentationen med [ReStructuredText](https://en.wikipedia.org/wiki/ReStructuredText).
 	* **HTML**:
-		- Er nærmest selv-dokumterende. Blokke kan indsættes med `<!-- comment -->` 
+		- Er nærmest selv-dokumterende, så no worries.
+		- Blokke kan indsættes med `<!-- block doc -->` 
+	* **JavaScript**:
+		- Vi må vurdere, om der er et behov, hvis vi skal skrive en væsentlig mængde. 
+	* **C/C++**:
+
+
 ## Testing
 
 
@@ -59,6 +65,6 @@ Det giver mest mening at følge typiske standarder for de sprog, vi bruger.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNTk4MzkwNSwtMjA1MTY0MTg4NSw1OD
+eyJoaXN0b3J5IjpbMTIwODA3NzU3MSwtMjA1MTY0MTg4NSw1OD
 Y2MjgxOTVdfQ==
 -->
