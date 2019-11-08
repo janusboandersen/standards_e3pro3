@@ -31,17 +31,19 @@ Det giver mest mening at følge typiske standarder for de sprog, vi bruger.
 	* Slå op i standarden for at se, hvordan man navngiver en funktion, en klasse, en variabel, osv...
 
 ### HTML5
-- Følg [Style Guide](https://www.w3schools.com/html/html5_syntax.asp) fra w3schools.
+- Vi følger [HTML5 Style Guide](https://www.w3schools.com/html/html5_syntax.asp) fra w3schools.
 
 ### JavaScript
-- 
+- Vi følger [JS Style Guide](https://www.w3schools.com/js/js_conventions.asp)
 
 ### C/C++
 - Vi benytter AU's kodestandard.
 
+## Testing
 
+##
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NzU4MzU1MSwtMjA1MTY0MTg4NSw1OD
-Y2MjgxOTVdfQ==
+eyJoaXN0b3J5IjpbLTE4NTYwNTI3NTgsLTIwNTE2NDE4ODUsNT
+g2NjI4MTk1XX0=
 -->
