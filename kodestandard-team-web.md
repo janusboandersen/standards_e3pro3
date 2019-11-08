@@ -3,8 +3,7 @@
 
 Hej! Det er sjovere og nemmere at arbejde sammen, når vi er enige om et par standarder. Når vi lærer mere, så opdaterer vi standarden.
 
-## Versioner
-
+## Versioner 
 - Python >= 3.6 [[Nyeste er 3.8]](https://docs.python.org/3/)
 - Django >= 2.2 [[Nyeste er 2.2.7]](https://docs.djangoproject.com/en/2.2/)
 - HTML5 [[Nyeste]](https://www.w3schools.com/html/html5_intro.asp)
@@ -14,10 +13,10 @@ Hej! Det er sjovere og nemmere at arbejde sammen, når vi er enige om et par sta
 ## Kodestandarder
 Det giver mest mening at følge typiske standarder for de sprog, vi bruger.
 ### Python
-- Standarden er i PEP
+- Standarden er i 
 ###
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5ODQ1NTIyNiwtMjA1MTY0MTg4NSw1OD
+eyJoaXN0b3J5IjpbMTY4OTE0MDEwNywtMjA1MTY0MTg4NSw1OD
 Y2MjgxOTVdfQ==
 -->
