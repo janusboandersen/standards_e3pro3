@@ -15,12 +15,13 @@ Det giver mest mening at følge typiske standarder for de sprog, vi bruger.
 ### Python
 - De fleste skriver Python efter [PEP8](https://www.python.org/dev/peps/pep-0008/). Så det prøver vi også.
 - Det er en lang kodestandard, vi kan slå op i efter behov.
-- Væsentligst til at komme i gang...
-	* Benyt 4 mellemrum til hver indrykning:
+- Væsentligst til at komme i gang:
+	* Benyt 4 mellemrum til hver indrykning.
 		> Use 4 spaces per indentation level.
 		> Spaces are the preferred indentation method.
 		> Python 3 disallows mixing the use of tabs and spaces for indentation.
-
+	* Linjelænger, max 79 tegn
+		> Limit all lines to a maximum of 79 characters.
 
 ### HTML5
 
@@ -29,6 +30,6 @@ Det giver mest mening at følge typiske standarder for de sprog, vi bruger.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NjMzMDE5OCwtMjA1MTY0MTg4NSw1OD
-Y2MjgxOTVdfQ==
+eyJoaXN0b3J5IjpbLTEwOTU1MjAyNDIsLTIwNTE2NDE4ODUsNT
+g2NjI4MTk1XX0=
 -->
