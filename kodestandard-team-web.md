@@ -1,5 +1,5 @@
 
-# Team Web's Kodestandard :rocket:
+# Team Web's Standarder :rocket:
 
 Hej! Det er sjovere og nemmere at arbejde sammen, når vi er enige om et par standarder. Når vi lærer mere, så opdaterer vi standarden.
 
@@ -11,9 +11,13 @@ Hej! Det er sjovere og nemmere at arbejde sammen, når vi er enige om et par sta
 - JavaScript >= ES6 [[Nyeste er ES6]](https://www.w3schools.com/js/js_es6.asp)
 - C++ >= C++11 
 
-
+## Kodestandarder
+Det giver mest mening at følge typiske standarder for de sprog, vi bruger.
+### Python
+- Standarden er i PEP
+###
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDkyNjQ4OTMsLTIwNTE2NDE4ODUsNT
-g2NjI4MTk1XX0=
+eyJoaXN0b3J5IjpbLTY5ODQ1NTIyNiwtMjA1MTY0MTg4NSw1OD
+Y2MjgxOTVdfQ==
 -->
