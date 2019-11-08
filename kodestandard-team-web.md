@@ -86,7 +86,7 @@ Det giver mest mening at følge typiske standarder for de sprog, vi bruger.
 
 ### Commit-beskeder
 - Vi skriver gode og commit-beskeder, der hjælper hinanden med at forstå ændringer.
-- Vi overholder følgende punkter for gode beskeder [9]:
+- Vi overholder følgende punkter for gode beskeder [[hvorfor?]](https://chris.beams.io/posts/git-commit/):
 	> - Skriv commit-beskeder på engelsk.
 	> - Separér emnelinje og indholdsfelt med tom linje.
 	> - Skriv emnelinje på maks. 50 tegn.
@@ -96,8 +96,15 @@ Det giver mest mening at følge typiske standarder for de sprog, vi bruger.
 	> - Hold indholdsfeltet inden for en kolonnebredde på 72 tegn.
 	> - Brug indholdsfeltet til at forklare hvad og hvorfor (ikke hvordan).
 
+## Navne på filer, mapper
+- Vi laver versionsstyring af kodefiler med **Github. Ikke med mange kopier af filer eller versionsnummerering i filnavne.
+- Læsbare mellemrum laves med bindestreg (-) eller underscore (_). Undlad at bruge mellemrum i fil- og mappenavne. 
+- Brug kun tegnene a-z, A-Z, 0-9, -, _. Undlad at bruge ikke-ascii-tegn og specialtegn. Det foretrækkes at bruge små bogstaver, medmindre et stort tegn signalerer noget specifikt.
+- Brug kun ét punktum i et filnavn. Dette punktum markerer filtypen.
+
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0Mzc5NDg5NywtMjA1MTY0MTg4NSw1OD
+eyJoaXN0b3J5IjpbMTI2NzkwMjA0NiwtMjA1MTY0MTg4NSw1OD
 Y2MjgxOTVdfQ==
 -->
