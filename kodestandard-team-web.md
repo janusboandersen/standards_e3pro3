@@ -101,11 +101,13 @@ Det giver mest mening at følge typiske standarder for de sprog, vi bruger.
 - Læsbare mellemrum laves med bindestreg (-) eller underscore (_). Undlad at bruge mellemrum i fil- og mappenavne, det er bare for svært at håndtere i terminalen og i kode. 
 - Brug kun tegnene a-z, A-Z, 0-9, -, _. Undlad at bruge ikke-ascii-tegn og specialtegn.
 - Vi fortrækker at bruge små bogstaver, medmindre et stort tegn signalerer noget _helt_ specifikt.
-- Vi bruger kun ét punktum i et filnavn. Dette punktum markerer filtypen.
+- Vi bruger kun ét punktum i et filnavn. Dette punktum markerer filtypen (medmindre der er en standard, vi skal overholde, fx til `yaml`).
 
+
+That's all folks! :rabbit:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MTM1NTMzMCwtMjA1MTY0MTg4NSw1OD
+eyJoaXN0b3J5IjpbMTE4MDI0NzIxOCwtMjA1MTY0MTg4NSw1OD
 Y2MjgxOTVdfQ==
 -->
