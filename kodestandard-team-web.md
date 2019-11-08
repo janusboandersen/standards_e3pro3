@@ -69,17 +69,15 @@ Det giver mest mening at følge typiske standarder for de sprog, vi bruger.
 		- Vi må evaluere behovet... `Catch2`?
 
 ## Versionsstyring
-Vi benytter Git og Github til versionsstyring og kodedeling.
-Vi 
-
-<![if !supportLists]>· <![endif]>Vi benytter Github til bug-tracking (issues).
-
-<![if !supportLists]>· <![endif]>Vi benytter branches til fastfrysning af releases, featureudvikling og fix af issues.
+- Vi benytter **Git** og **Github** til versionsstyring og kodedeling.
+- Vi lægger vores fælles kode på [https://github.com/AUTeam2](https://github.com/AUTeam2).
+- Vi benytter Github til bug-tracking (issues).
+- Vi benytter branches til fastfrysning af releases, featureudvikling og fix af issues. Der er et beskrevet workflow 
 
 Master branch (mainline) skal altid kunne deployes til server.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODk0NDA3NTYsLTIwNTE2NDE4ODUsNT
-g2NjI4MTk1XX0=
+eyJoaXN0b3J5IjpbMTgyNjA2NDAsLTIwNTE2NDE4ODUsNTg2Nj
+I4MTk1XX0=
 -->
