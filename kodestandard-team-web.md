@@ -42,7 +42,7 @@ Det giver mest mening at følge typiske standarder for de sprog, vi bruger.
 ## Dokumentation
 
 - Vi dokumenterer vores kode, mens vi skriver.
-- Der er forskel på at kommentere og dokumentere. Det er godt at kommentere. Det er krævet at dokumentere.
+- Der er forskel på at kommentere og dokumentere. Det er godt at kommentere, og det er _krævet_ at dokumentere.
 - Vi brug de værktøjer, der er naturlige til det sprog, vi skriver i.
 	* **Python**:
 		- Vi bruger docstrings til at dokumentere alle moduler, klasser og funktioner. Se fx [Documenting Python code](https://realpython.com/documenting-python-code/). 
@@ -108,6 +108,6 @@ That's all folks! :rabbit:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4MDI0NzIxOCwtMjA1MTY0MTg4NSw1OD
-Y2MjgxOTVdfQ==
+eyJoaXN0b3J5IjpbLTE0Njg4NzYwNTIsMTE4MDI0NzIxOCwtMj
+A1MTY0MTg4NSw1ODY2MjgxOTVdfQ==
 -->
