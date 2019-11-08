@@ -23,8 +23,8 @@ Det giver mest mening at følge typiske standarder for de sprog, vi bruger.
 	* Linjelænger, prøv at holde dem under 80 tegn
 		> Limit all lines to a maximum of 79 characters.
 		> ...makes it possible to have several files open side-by-side, and works well when using code review tools that present the two versions in adjacent columns.
-	* Filer gemmes i UTF-8
-		> 
+	* Filer gemmes i UTF-8, men lad nu være med at bruge ikke-ascii-tegn i koden, selvom det er sjovt my_:monkey:_function(:banana:, )´
+		> Code in the core Python distribution should always use UTF-8
 
 ### HTML5
 
@@ -33,6 +33,6 @@ Det giver mest mening at følge typiske standarder for de sprog, vi bruger.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMzEyNTgxMywtMjA1MTY0MTg4NSw1OD
-Y2MjgxOTVdfQ==
+eyJoaXN0b3J5IjpbLTExMTMzNjIxNzksLTIwNTE2NDE4ODUsNT
+g2NjI4MTk1XX0=
 -->
