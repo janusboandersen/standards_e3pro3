@@ -54,10 +54,12 @@ Det giver mest mening at følge typiske standarder for de sprog, vi bruger.
 	* **JavaScript**:
 		- Vi må vurdere, om der er et behov, hvis vi skal skrive en væsentlig mængde. 
 	* **C/C++**:
+		- Vi benytter Doxygen til at dokumentere C/C++-kode. 
 
 
 ## Testing
-
+- Vi tester så meget, vi kan.
+- Vi benytter de testværktøjer, der er naturlige for de sprog, vi s
 
 ## Versionsstyring
 
@@ -65,6 +67,6 @@ Det giver mest mening at følge typiske standarder for de sprog, vi bruger.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwODA3NzU3MSwtMjA1MTY0MTg4NSw1OD
+eyJoaXN0b3J5IjpbMTY2NjgxNDc1MiwtMjA1MTY0MTg4NSw1OD
 Y2MjgxOTVdfQ==
 -->
