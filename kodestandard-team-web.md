@@ -42,9 +42,9 @@ Det giver mest mening at følge typiske standarder for de sprog, vi bruger.
 ## Dokumentation
 
 - Vi dokumenterer vores kode, mens vi skriver.
-- Der er for
+- Der er forskel på at kommentere og dokumentere. Det er godt at kommentere. Det er krævet at dokumentere.
 - Vi brug de værktøjer, der er naturlige til det sprog, vi skriver i.
-	* Python: Vi bruger docstrings
+	* Python: Vi bruger docstrings. Se fx [Documenting Python code](https://realpython.com/documenting-python-code/). Vi bruger Sphinx til at samle dokumentation senere. 
 
 ## Testing
 
@@ -55,6 +55,6 @@ Det giver mest mening at følge typiske standarder for de sprog, vi bruger.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMjkzNDI3OSwtMjA1MTY0MTg4NSw1OD
+eyJoaXN0b3J5IjpbLTU5MzQ3MDU1MywtMjA1MTY0MTg4NSw1OD
 Y2MjgxOTVdfQ==
 -->
