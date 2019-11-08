@@ -85,10 +85,19 @@ Det giver mest mening at følge typiske standarder for de sprog, vi bruger.
 - Det er scrum-masters ansvar, at en releaseversion fastfryses.
 
 ### Commit-beskeder
-- Vi skriver gode og commit-beskeder, der hjælper hinanden med 
-- 
+- Vi skriver gode og commit-beskeder, der hjælper hinanden med at forstå ændringer.
+- Vi overholder følgende punkter for gode beskeder [9]:
+	> - Skriv commit-beskeder på engelsk.
+	> - Separér emnelinje og indholdsfelt med tom linje.
+	> - Skriv emnelinje på maks. 50 tegn.
+	> - Skriv med stort begyndelsesbogstav i emnelinje.
+	> - Benyt ikke punktum i emnelinje.
+	> - Skriv i bydeform i emnelinjen.
+	> - Hold indholdsfeltet inden for en kolonnebredde på 72 tegn.
+	> - Brug indholdsfeltet til at forklare hvad og hvorfor (ikke hvordan).
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNzc5NTEyNSwtMjA1MTY0MTg4NSw1OD
+eyJoaXN0b3J5IjpbLTU0Mzc5NDg5NywtMjA1MTY0MTg4NSw1OD
 Y2MjgxOTVdfQ==
 -->
