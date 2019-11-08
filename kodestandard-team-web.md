@@ -27,15 +27,15 @@ Det giver mest mening at følge typiske standarder for de sprog, vi bruger.
 	* Selvom det er sjovt, så går *my_:monkey:_function(:banana:, :beer:)* nok ikke...
 		> Code in the core Python distribution should always use UTF-8.
 		> All identifiers in the Python standard library MUST use ASCII-only identifiers, and SHOULD use English words wherever feasible.
-	* Slå op i standarden for at se, hvordan man navngiver en funktion, en klasse, en variabel, os
+	* Slå op i standarden for at se, hvordan man navngiver en funktion, en klasse, en variabel, osv...
 
 ### HTML5
-
+- Følg [https://www.w3schools.com/html/html5_syntax.asp](https://www.w3schools.com/html/html5_syntax.asp) fra w3
 ### C/C++
 - Vi benytter AU's kodestandard.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTc5MzA2NjcsLTIwNTE2NDE4ODUsNT
-g2NjI4MTk1XX0=
+eyJoaXN0b3J5IjpbLTIwNDA2NzcwMSwtMjA1MTY0MTg4NSw1OD
+Y2MjgxOTVdfQ==
 -->
