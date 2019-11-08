@@ -61,7 +61,11 @@ Det giver mest mening at følge typiske standarder for de sprog, vi bruger.
 - Vi tester så meget, vi kan.
 - Vi benytter de testværktøjer, der er naturlige for de sprog, vi skriver i.
 	* **Django/Python**:
-		- Vi skriver unit tests med `unittest` [https://docs.djangoproject.com/en/2.2/topics/testing/](https://docs.djangoproject.com/en/2.2/topics/testing/), som er
+		- Vi skriver unit tests med `unittest` [som er den foretrukne måde](https://docs.djangoproject.com/en/2.2/topics/testing/).
+		- Vi følger [Django's opskrift](https://docs.djangoproject.com/en/2.2/topics/testing/overview/) når vi skriver og kører tests.
+	* **JavaScript**:
+		- Vi må evaluere behovet. Selenium?
+ 
 
 ## Versionsstyring
 
@@ -69,6 +73,6 @@ Det giver mest mening at følge typiske standarder for de sprog, vi bruger.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNzU5Mjk5OCwtMjA1MTY0MTg4NSw1OD
-Y2MjgxOTVdfQ==
+eyJoaXN0b3J5IjpbLTE2NDQ5MjAxOTgsLTIwNTE2NDE4ODUsNT
+g2NjI4MTk1XX0=
 -->
