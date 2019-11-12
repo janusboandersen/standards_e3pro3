@@ -40,7 +40,7 @@ Her er et par tips and tricks til PyCharm fra JetBrains.
 
 ## Tips til Windows
 - Start PyCharm som *administrator*.
-- Tjek at dine filer gemmes i UTF-8 med **LF** linjeskift:
+- Tjek at dine filer gemmes i **UTF-8** med **LF** linjeskift (ellers skift det ved at trykke på statuslinjen):
 
 ![Line Endings](/img/line-endings.png) 
 
