@@ -44,4 +44,7 @@ Her er et par tips and tricks til PyCharm fra JetBrains.
 
 ![Line Endings](/img/line-endings.png) 
 
+## Flere tips og tricks
+- [42 PyCharm Tips & Tricks](https://www.jetbrains.com/pycharm/guide/playlists/42/)
 
+:snake:
